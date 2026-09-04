@@ -16,19 +16,19 @@ I named it Cyber. Here's what's inside:
 
 | Components   |   Parts        | 
 |:-------------|:------------------|
-| CPU          | good swedish fish | 
-| Cooler       | good and plenty   |
-| Motherboard  | good `oreos`      | 
-| RAM          | good `zoute` drop | 
-| OS Drive     |                |
-| VM Drive     |                |
-| Cold Storage |                |
-| PSU          |                |      
-| Case         |                |      
-| OS           |                |
-| Monitor      |                |     
-| Keyboard     |                |     
-| Mouse        |                |        
+| CPU          | 	`AMD Ryzen 9 9950X — 16 Cores / 32 Threads` | 
+| Cooler       | 	`Corsair iCUE Link Titan 360 RX RGB AIO`   |
+| Motherboard  |  `ASUS ProArt X870E-Creator WiFi`      | 
+| RAM          | `G.Skill Ripjaws S5 64GB DDR5-6000 CL30` | 
+| OS Drive     |  `Samsung 990 Pro 2TB NVMe Gen4`              |
+| VM Drive     |  `WD Black SN850X 4TB NVMe Gen4`              |
+| Cold Storage |   `Seagate BarraCuda 4TB HDD`             |
+| PSU          |   `Corsair RM850e 850W Gold Fully Modular`             |      
+| Case         |   `Corsair iCUE 4000D RGB Airflow ATX Mid Tower Case`             |      
+| OS           |  `Windows 11`              |
+| Monitor      |   `Dell 27 Monitor S2725QS, 4K UHD IPS, 120hz`              |     
+| Keyboard     |    `Keychron K2 HE`            |     
+| Mouse        |     `Logitech MX Master 3S`            |        
 
 
 
