@@ -30,75 +30,65 @@ I named it Cyber. Here's what's inside:
 | Keyboard     |    `Keychron K2 HE`            |     
 | Mouse        |     `Logitech MX Master 3S`            |        
 
-| Total Storage:|  `10TB` |
+Total Storage:  `10TB` 
 
 
-### Header 3
+### What I Built It For
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+This machine is set up specifically for cybersecurity lab work:
+- Running multiple virtual machines at the same time — Kali Linux, Windows
+- Practicing on platforms like TryHackMe, HackTheBox, and VulnHub
+- Learning network analysis with Wireshark
+- Preparing for CompTIA Security+
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+ The 16-core CPU and 64GB of RAM means I can run a full lab environment without the machine slowing down.
+ The 4TB NVMe is dedicated entirely to VMs so they run as fast as a real machine.
 
-#### Header 4
+
+
+
+#### What I Learned Building It
+I had never built a PC before this. Here's what I had to figure out:
+
+*   How to install an `AMD RYZEN 9` CPU into an Asus ProArt x870e- creator wifi motherboard
+*   How AIO liquid coolers mount and connect
+*   The difference between NVMe, SATA, and HDD storage and when to use each
+*   How to configure dual-channel RAM correctly
+*   Why integrated graphics is enough for cybersecurity work without a GPU
+*   Cable management inside a mid-tower case
+*   How to Install Fans Correctly with the Right Airflow Inside a `Corsair 4000D` case
+
+  `Everything I know about PC hardware I learned while building this.`
+
+##### Difficulties that I faced
+
+1.  Installing the AIO pump was one of the challenges I faced.
+    I learned that every motherboard has its own method for installing the pump; Intel is different from AMD.
+    I also had to unscrew the fans in the radiator and reverse their orientation to achieve the desired airflow inside the case.
+
+2.  Cable management was a challenge, ensuring that every cable was well placed and reached its corresponding plug on the motherboard.
+    Organizing them to prevent mixing was also difficult.
+
+###### Confirmed System Specs
+Verified in Windows 11 — System > About:
+  1. AMD Ryzen 9 9950X 16-Core Processor (4.30 GHz)
+  2. 64.0 GB RAM @ 6000 MT/s
+  3. 9.10 TB Storage
+  4. AMD Radeon Integrated Graphics (2GB)
+
+
+### What's Next 
+  - Document each lab on this GitHub
+  - Earn CompTIA A+
+  - Set up Kali Linux VM in VMware Workstation
+  - Complete TryHackMe Pre-Security path
+
+### About me:
+
+Incoming Computer Science student at the University of Houston — Fall 2026.
+My goal is a career in cybersecurity as a security engineer.
+I built this machine because I believe in learning by doing.
 [Link to another page](README.md).
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
