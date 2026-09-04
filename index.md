@@ -13,12 +13,12 @@ I researched every component, selected the parts myself, and successfully built 
 ## The Build - "Cyber"
 I named it Cyber. Here's what's inside:
 
-| Components   |   Parts        | |
-|:-------------|:------------------|:------|
-| CPU          | good swedish fish | nice  |
-| Cooler       | good and plenty   | nice  |
-| Motherboard           | good `oreos`      | hmm   |
-| RAM          | good `zoute` drop | yumm  |
+| Components   |   Parts        | 
+|:-------------|:------------------|
+| CPU          | good swedish fish | 
+| Cooler       | good and plenty   |
+| Motherboard  | good `oreos`      | 
+| RAM          | good `zoute` drop | 
 | OS Drive     |                |
 | VM Drive     |                |
 | Cold Storage |                |
