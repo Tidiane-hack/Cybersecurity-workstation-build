@@ -7,7 +7,8 @@ My goal was to gain hands-on experience and practice for my A+ certification pre
 I researched every component, selected the parts myself, and successfully built the PC.
 
 
-[Link to another page](README.md).
+
+
 
 
 ## The Build - "Cyber"
@@ -49,7 +50,7 @@ end
 ```
 
 #### Header 4
-
+[Link to another page](README.md).
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
