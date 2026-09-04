@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Why I Built This PC
+I wanted to learn how to build a PC from scratch and needed a machine powerful enough to run real hacking labs.
+I didn't want to wait until college to start practicing, so before my first semester at the University of Houston,
+I researched every component, selected the parts myself, and built the PC.
 
 [Link to another page](README.md).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
