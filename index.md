@@ -10,13 +10,26 @@ I researched every component, selected the parts myself, and successfully built 
 [Link to another page](README.md).
 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## The Build - "Cyber"
+I named it Cyber. Here's what's inside:
 
-## Header 2
+| Components   |   Parts        | |
+|:-------------|:------------------|:------|
+| CPU          | good swedish fish | nice  |
+| Cooler       | good and plenty   | nice  |
+| Motherboard           | good `oreos`      | hmm   |
+| RAM          | good `zoute` drop | yumm  |
+| OS Drive     |                |
+| VM Drive     |                |
+| Cold Storage |                |
+| PSU          |                |      
+| Case         |                |      
+| OS           |                |
+| Monitor      |                |     
+| Keyboard     |                |     
+| Mouse        |                |        
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ### Header 3
 
@@ -49,12 +62,7 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+
 
 ### There's a horizontal rule below this.
 
