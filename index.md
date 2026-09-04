@@ -41,8 +41,8 @@ This machine is set up specifically for cybersecurity lab work:
 - Learning network analysis with Wireshark
 - Preparing for CompTIA Security+
 
- The 16-core CPU and 64GB of RAM means I can run a full lab environment without the machine slowing down.
- The 4TB NVMe is dedicated entirely to VMs so they run as fast as a real machine.
+ `The 16-core CPU and 64GB of RAM means I can run a full lab environment without the machine slowing down.
+ The 4TB NVMe is dedicated entirely to VMs so they run as fast as a real machine.`
 
 
 
@@ -85,9 +85,9 @@ Verified in Windows 11 — System > About:
 
 ## About me:
 
-Incoming Computer Science student at the University of Houston — Fall 2026.
+`Incoming Computer Science student at the University of Houston — Fall 2026.
 My goal is a career in cybersecurity as a security engineer.
-I built this machine because I believe in learning by doing.
+I built this machine because I believe in learning by doing.`
 [Link to another page](README.md).
 
 ### Small image
