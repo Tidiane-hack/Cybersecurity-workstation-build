@@ -50,11 +50,11 @@ This machine is set up specifically for cybersecurity lab work:
 ## What I Learned Building It
 I had never built a PC before this. Here's what I had to figure out:
 
-*   How to install an `AMD RYZEN 9` CPU into an Asus ProArt x870e- creator wifi motherboard
+*   How to install an `AMD RYZEN 9` CPU into an `Asus ProArt X870E Creator Wi-Fi` motherboard
 *   How AIO liquid coolers mount and connect
 *   The difference between NVMe, SATA, and HDD storage and when to use each
 *   How to configure dual-channel RAM correctly
-*   Why integrated graphics is enough for cybersecurity work without a GPU
+*   Why integrated graphics are enough for cybersecurity work without a GPU
 *   Cable management inside a mid-tower case
 *   How to Install Fans Correctly with the Right Airflow Inside a `Corsair 4000D` case
 
@@ -90,11 +90,11 @@ My goal is a career in cybersecurity as a security engineer.
 I built this machine because I believe in learning by doing.`
 [Link to another page](README.md).
 
-### Small image
+### Empty case
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### Final Build
 
 ![Branching](Cybersecurity.png)
 
