@@ -92,7 +92,7 @@ I built this machine because I believe in learning by doing.`
 
 ### Before
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](PC before pic.jpg)
 
 ### Final Build
 
