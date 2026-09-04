@@ -90,7 +90,7 @@ My goal is a career in cybersecurity as a security engineer.
 I built this machine because I believe in learning by doing.`
 [Link to another page](README.md).
 
-### Empty case
+### Before
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
