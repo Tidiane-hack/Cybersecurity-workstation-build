@@ -30,6 +30,7 @@ I named it Cyber. Here's what's inside:
 | Keyboard     |    `Keychron K2 HE`            |     
 | Mouse        |     `Logitech MX Master 3S`            |        
 
+| Total Storage:|  `10TB` |
 
 
 ### Header 3
