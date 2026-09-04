@@ -2,5 +2,5 @@ title: Cybersecurity Projects
 description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-hacker
 description: [To showcase my skills to my future employer.]
