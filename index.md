@@ -33,7 +33,7 @@ I named it Cyber. Here's what's inside:
 Total Storage:  `10TB` 
 
 
-### What I Built It For
+## What I Built It For
 
 This machine is set up specifically for cybersecurity lab work:
 - Running multiple virtual machines at the same time — Kali Linux, Windows
@@ -47,7 +47,7 @@ This machine is set up specifically for cybersecurity lab work:
 
 
 
-#### What I Learned Building It
+## What I Learned Building It
 I had never built a PC before this. Here's what I had to figure out:
 
 *   How to install an `AMD RYZEN 9` CPU into an Asus ProArt x870e- creator wifi motherboard
@@ -60,7 +60,7 @@ I had never built a PC before this. Here's what I had to figure out:
 
   `Everything I know about PC hardware I learned while building this.`
 
-##### Difficulties that I faced
+## Difficulties that I faced
 
 1.  Installing the AIO pump was one of the challenges I faced.
     I learned that every motherboard has its own method for installing the pump; Intel is different from AMD.
@@ -69,7 +69,7 @@ I had never built a PC before this. Here's what I had to figure out:
 2.  Cable management was a challenge, ensuring that every cable was well placed and reached its corresponding plug on the motherboard.
     Organizing them to prevent mixing was also difficult.
 
-###### Confirmed System Specs
+## Confirmed System Specs
 Verified in Windows 11 — System > About:
   1. AMD Ryzen 9 9950X 16-Core Processor (4.30 GHz)
   2. 64.0 GB RAM @ 6000 MT/s
@@ -77,13 +77,13 @@ Verified in Windows 11 — System > About:
   4. AMD Radeon Integrated Graphics (2GB)
 
 
-### What's Next 
+## What's Next 
   - Document each lab on this GitHub
   - Earn CompTIA A+
   - Set up Kali Linux VM in VMware Workstation
   - Complete TryHackMe Pre-Security path
 
-### About me:
+## About me:
 
 Incoming Computer Science student at the University of Houston — Fall 2026.
 My goal is a career in cybersecurity as a security engineer.
