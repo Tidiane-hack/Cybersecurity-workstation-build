@@ -94,9 +94,9 @@ I built this machine because I believe in learning by doing.`
 
 ![Octocat](PC before pic.jpg)
 
-### Final Build
+### Watch the build process 
 
-![Branching](after pic.JPG)
+[![Watch the build](after pic.JPG)](https://youtu.be/D_bW_UFoB0E)
 
 
 ### Definition lists can be used with HTML syntax. 
