@@ -96,7 +96,7 @@ I built this machine because I believe in learning by doing.`
 
 ### Final Build
 
-![Branching](Cybersecurity.png)
+![Branching](after pic.JPG)
 
 
 ### Definition lists can be used with HTML syntax. 
