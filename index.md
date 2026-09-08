@@ -90,12 +90,12 @@ My goal is a career in cybersecurity as a security engineer.
 I built this machine because I believe in learning by doing.`
 [Link to another page](README.md).
 
-### Before
+## Before
 
 ![Octocat](PC before pic.jpg)
 
-### Watch the build process 
-
+## Watch the build process 
+`*Click the image down below to watch the video*`
 [![Watch the build](after pic.JPG)](https://youtu.be/D_bW_UFoB0E)
 
 
