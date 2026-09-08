@@ -77,18 +77,6 @@ Verified in Windows 11 — System > About:
   4. AMD Radeon Integrated Graphics (2GB)
 
 
-## What's Next 
-  - Document each lab on this GitHub
-  - Earn CompTIA A+
-  - Set up Kali Linux VM in VMware Workstation
-  - Complete TryHackMe Pre-Security path
-
-## About me:
-
-`Incoming Computer Science student at the University of Houston — Fall 2026.
-My goal is a career in cybersecurity as a security engineer.
-I built this machine because I believe in learning by doing.`
-[Link to another page](README.md).
 
 ## Before
 
@@ -99,27 +87,14 @@ I built this machine because I believe in learning by doing.`
 [![Watch the build](after pic.JPG)](https://youtu.be/D_bW_UFoB0E)
 
 
-### Definition lists can be used with HTML syntax. 
-![Branching]()
-![Branching]()
+## What's Next  
+  - Document each lab on this GitHub
+  - Earn CompTIA A+
+  - Set up Kali Linux VM in VMware Workstation
+  - Complete TryHackMe Pre-Security path
 
+## About me:
 
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+`Incoming Computer Science student at the University of Houston — Fall 2026.
+My goal is a career in cybersecurity as a security engineer.
+I built this machine because I believe in learning by doing.`
